@@ -2,6 +2,6 @@ version: 0.0
 os: linux
 hooks:
   BeforeInstall:
-    - location: scripts/pm2-start.sh
+    - location: pm2-start.sh
       timeout: 300
       runas: root
