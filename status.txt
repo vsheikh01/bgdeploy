@@ -1,14 +1,1 @@
 first commit
-second commit
-thred commit
-4th commit
-<<<<<<< HEAD
-BUILD_ID
-=======
-6th
->>>>>>> abac4ed8bb4b32ae7fa76d30eea001cf5df51f32
-BUILD_ID
-BUILD_ID
-BUILD_ID
-BUILD_ID
-BUILD_ID
